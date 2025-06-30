@@ -5,3 +5,5 @@ python-dotenv
 langchain-openai
 beautifulsoup4
 faiss-cpu
+streamlit
+langchain-ollama
